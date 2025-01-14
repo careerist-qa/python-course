@@ -52,7 +52,7 @@ print(???)
 # You are designing a weather app and need to convert temperature
 # from Celsius to Fahrenheit for display. Convert a given
 # temperature and print the result.
-# To convert Celsis to Fahrenheit you need to multiply
+# To convert Celsius to Fahrenheit you need to multiply
 # the temperature in Celsius by 9/5 and add 32 to the result
 
 
